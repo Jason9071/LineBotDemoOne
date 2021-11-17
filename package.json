@@ -1,0 +1,22 @@
+{
+  "name": "linebotdemoone",
+  "version": "1.0.0",
+  "description": "日日新LineBot 第一堂的範例程式碼",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason9071/LineBotDemoOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason9071/LineBotDemoOne/issues"
+  },
+  "homepage": "https://github.com/Jason9071/LineBotDemoOne#readme",
+  "dependencies": {
+    "linebot": "^1.6.1"
+  }
+}
