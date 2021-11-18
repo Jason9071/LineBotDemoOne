@@ -7,3 +7,5 @@
 
 line 的設定位置 --> https://developers.line.biz/console/
                --> https://manager.line.biz/
+
+ngork --> https://ngrok.com/download
